@@ -183,7 +183,7 @@
     <TargetName>pkodev.mod.cooldown.client.13x_2d</TargetName>
     <OutDir>$(ProjectDir)bin\</OutDir>
     <IncludePath>$(ProjectDir)lib\Detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
-    <LibraryPath>$(ProjectDir)lib\Detours\lib$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <LibraryPath>$(ProjectDir)lib\Detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
     <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_3 Debug|Win32'">
@@ -191,7 +191,7 @@
     <TargetName>pkodev.mod.cooldown.client.13x_3d</TargetName>
     <OutDir>$(ProjectDir)bin\</OutDir>
     <IncludePath>$(ProjectDir)lib\Detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
-    <LibraryPath>$(ProjectDir)lib\Detours\lib$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <LibraryPath>$(ProjectDir)lib\Detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
     <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_4 Debug|Win32'">
@@ -199,7 +199,7 @@
     <TargetName>pkodev.mod.cooldown.client.13x_4d</TargetName>
     <OutDir>$(ProjectDir)bin\</OutDir>
     <IncludePath>$(ProjectDir)lib\Detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
-    <LibraryPath>$(ProjectDir)lib\Detours\lib$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <LibraryPath>$(ProjectDir)lib\Detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
     <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_5 Debug|Win32'">
@@ -207,7 +207,7 @@
     <TargetName>pkodev.mod.cooldown.client.13x_5d</TargetName>
     <OutDir>$(ProjectDir)bin\</OutDir>
     <IncludePath>$(ProjectDir)lib\Detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
-    <LibraryPath>$(ProjectDir)lib\Detours\lib$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <LibraryPath>$(ProjectDir)lib\Detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
     <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_0 Debug|Win32'">
@@ -215,7 +215,7 @@
     <TargetName>pkodev.mod.cooldown.client.13x_0d</TargetName>
     <OutDir>$(ProjectDir)bin\</OutDir>
     <IncludePath>$(ProjectDir)lib\Detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
-    <LibraryPath>$(ProjectDir)lib\Detours\lib$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <LibraryPath>$(ProjectDir)lib\Detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
     <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_1 Debug|Win32'">
@@ -223,7 +223,7 @@
     <TargetName>pkodev.mod.cooldown.client.13x_1d</TargetName>
     <OutDir>$(ProjectDir)bin\</OutDir>
     <IncludePath>$(ProjectDir)lib\Detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
-    <LibraryPath>$(ProjectDir)lib\Detours\lib$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <LibraryPath>$(ProjectDir)lib\Detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
     <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_2 Release|Win32'">
